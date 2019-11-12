@@ -1,5 +1,5 @@
 
-package examples;
+package teste;
 
 import Decorator.Cachaca;
 import Decorator.Coquetel;
