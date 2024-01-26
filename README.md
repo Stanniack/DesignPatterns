@@ -1,15 +1,16 @@
 # DesignPatterns
 
-Implementações básicas de padrões de projeto (Design Patterns)
+# Implementações essenciais de padrões de projeto
+# Essentials Design patterns 
 
-* Padrões criacionais:
+* Padrões criacionais/Creational Patterns:
     - Singleton
     - Factory Method
     - Abstract Factory
     - Builder
     - Prototype
 
-* Padrões estruturais:
+* Padrões estruturais/Structural patterns:
     - Adapter 
     - Composite
     - Proxy
@@ -18,7 +19,7 @@ Implementações básicas de padrões de projeto (Design Patterns)
     - Bridge
     - Decorator (Done)
   
-* Padrões Comportamentais:
+* Padrões Comportamentais/Behavioural Patterns:
     - Template Method
     - Mediator
     - Chain of Responsability
