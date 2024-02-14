@@ -15,9 +15,9 @@
     - Composite
     - Proxy
     - Fly Weight
-    - Facade (Done)
+    - Facade ✔
     - Bridge
-    - Decorator (Done)
+    - Decorator ✔
   
 * Padrões Comportamentais/Behavioural Patterns:
     - Template Method
